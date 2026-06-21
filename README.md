@@ -1,12 +1,10 @@
 ## Hi there, I'm Constantin 👋
 
-I am a 5th semester B.Sc. Information Systems student @ KIT (Karlsruhe Institute of Technology), passionate about learning cool new stuff.
+I am a 6th semester B.Sc. Information Systems student @ KIT (Karlsruhe Institute of Technology), passionate about learning cool new stuff.
 
 ### I’m currently learning ...
 - Computer Organization and Architecture
 - Operating Systems
-- Machine Learning and Artificial Intelligence
-- Parallel programming and concurrency
 - Financial Data Science
 
 ### Tech Stack
