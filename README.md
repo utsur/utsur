@@ -4,8 +4,8 @@ I am a 6th semester B.Sc. Information Systems student @ KIT (Karlsruhe Institute
 
 ### I’m currently learning ...
 - Computer Organization and Architecture
-- Operating Systems
-- Financial Data Science
+- Computer networks and telecommunications
+- Digital Systems Design
 
 ### Tech Stack
 
